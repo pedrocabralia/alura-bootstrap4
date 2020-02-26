@@ -1,0 +1,37 @@
+.imagem-carrossel{
+height: 400px;
+object-fit: cover;
+object-position: 0 80%;
+
+
+}
+
+h1, .titulo-nav{
+   
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-special{
+    color:darkred!important;
+
+
+
+}
+.btn {
+    background-color: darkred;
+    border-color: darkred;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+    max-width: 18rem
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+  
+}
+article {
+    width: 18rem;
+}
